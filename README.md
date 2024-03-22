@@ -16,19 +16,14 @@ I'm a software development engineer. Interested in Solving problems faced during
 - 📫 My Portfolio : (https://github.com/Bhaveshpatil45)
 - ⚡ Fun fact : You know, who I'm!! 😜
 
-- ## Stack I work with
-<code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
-<code><img height="50" src="https://img.icons8.com/color/344/intellij-idea.png"></code>
-<code><img height="50" src="https://img.icons8.com/color/344/notepad-plus-plus.png"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<code><img height="30" src="https://github.com/get-icon/geticon/blob/master/icons/eclipse-logo.svg"></code>
-<code><img height="50" src="https://github.com/get-icon/geticon/blob/master/icons/microsoft-windows.svg"></code>
-<code><img height="50" src="https://github.com/get-icon/geticon/blob/master/icons/microsoft-office.svg"></code>
-<code><img height="30" src="https://github.com/get-icon/geticon/blob/master/icons/maven.svg"></code>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=java,spring,springboot,mysql," /><br>
+</div>
 
+<br/>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
