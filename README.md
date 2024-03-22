@@ -1,4 +1,8 @@
-Hi 👋 My name is Bhavesh Patil
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Bhaveshpatil45" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bhavesh+patil!;" />
+</h1>
 =========================
 
 full stack Java developer  
