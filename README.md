@@ -1,7 +1,14 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bhavesh+patil!;" />
 </h1>
-<h3 align="center">A passionate Java Full Stack developer from India </h3>
+<h2 align="center">
+    
+    A passionate
+    
+    Java Full Stack developer 
+    
+    from India 
+ </h2>
 
 <br/>
 
