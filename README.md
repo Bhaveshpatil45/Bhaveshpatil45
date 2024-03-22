@@ -20,7 +20,7 @@ I'm a software development engineer. Interested in Solving problems faced during
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,github,windows,linuxs,intellij,eclipse," />
-    <img src="https://skillicons.dev/icons?i=java,spring,spring boot,mysql," /><br>
+    <img src="https://skillicons.dev/icons?i=java,spring,spring-boot,mysql," /><br>
 </div>
 
 <br/>
