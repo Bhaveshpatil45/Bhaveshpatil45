@@ -31,6 +31,16 @@ I'm a software development engineer. Interested in Solving problems faced during
 <code><img height="50" src="https://github.com/get-icon/geticon/blob/master/icons/microsoft-office.svg"></code>
 <code><img height="30" src="https://github.com/get-icon/geticon/blob/master/icons/maven.svg"></code>
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
 ## Social Media Handles
 [![Github](https://img.shields.io/github/followers/Bhaveshpatil45?label=Follow&style=social)](https://github.com/Bhaveshpatil45)
 [![Linkedin](https://img.shields.io/badge/-Bhaveshpatil-blue?style=flat-square&logo=linkedin&logoColor=white&link=)](https://www.linkedin.com/in/bhavesh-patil-b3472a19a/)
