@@ -1,15 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bhavesh+patil!;" />
 </h1>
-<h2 align="center">
-    
-    A passionate
-    
-    Java Full Stack developer 
-    
-    from India 
- </h2>
-
+<h2 align="center">Java Full Stack developer </h2>
 <br/>
 
 I'm a software development engineer. Interested in Solving problems faced during integrating Large Scale distributed systems, Concurrent programming & Designing low latency Systems. Currently working on distributed systems and Real time data streaming and processing. Have good hands-on with Java, Spring, Spring Boot.
