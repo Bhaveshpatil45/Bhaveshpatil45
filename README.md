@@ -21,7 +21,6 @@ I'm a software development engineer. Interested in Solving problems faced during
 <div align="center">
    <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
-<code><img height="50" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FEhteshamKhan12%2Fspring-boot%2Fblob%2Fmain%2FREADME.md&psig=AOvVaw19M0zD4IUR8y7PxAGqyZ1P&ust=1711189473257000&source=images&cd=vfe&opi=89978449&ved=0CBQQjhxqFwoTCLD5qNfTh4UDFQAAAAAdAAAAABAI"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>	
 <code><img height="50" src="https://www.vectorlogo.zone/logos/opensource/opensource-ar21.svg"></code>
 <code><img height="30" src="https://github.com/get-icon/geticon/blob/master/icons/maven.svg"></code>
