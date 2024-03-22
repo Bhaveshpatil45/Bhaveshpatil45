@@ -52,24 +52,8 @@ I'm a software development engineer. Interested in Solving problems faced during
 <code><img height="50" src="https://www.vectorlogo.zone/logos/apache_activemq/apache_activemq-ar21.svg"></code>
 <code><img height="50" src="https://github.com/get-icon/geticon/blob/master/icons/apache-camel.svg"></code>
 <code><img height="30" src="https://github.com/get-icon/geticon/blob/master/icons/maven.svg"></code>
-<code><img height="50" src="https://github.com/get-icon/geticon/blob/master/icons/derby.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/openshift/openshift-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-<code><img height="30" src="https://github.com/get-icon/geticon/blob/master/icons/quarkus.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/apache_zookeeper/apache_zookeeper-ar21.svg"></code>
-<code><img height="50" src="https://github.com/get-icon/geticon/blob/master/icons/fabric_io.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_elasticcontainer/amazon_elasticcontainer-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/wildfly/wildfly-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/getfedora/getfedora-ar21.svg"></code>
 <code><img height="50" src="https://github.com/get-icon/geticon/blob/master/icons/microsoft-windows.svg"></code>
 <code><img height="50" src="https://github.com/get-icon/geticon/blob/master/icons/microsoft-office.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-ar21.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-ar21.svg"></code>
-<code><img height="45" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
 <code><img height="30" src="https://github.com/get-icon/geticon/blob/master/icons/eclipse-logo.svg"></code>
 </div>
 
