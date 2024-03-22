@@ -19,7 +19,7 @@ I'm a software development engineer. Interested in Solving problems faced during
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,window,linux,intellij,eclipse," />
+    <img src="https://skillicons.dev/icons?i=vscode,github,windows,linux,intellij,eclipse," />
     <img src="https://skillicons.dev/icons?i=java,spring,springboot,mysql," /><br>
 </div>
 
