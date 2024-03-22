@@ -9,7 +9,6 @@ I'm a software development engineer. Interested in Solving problems faced during
 ### Here is what I am working on <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 - 🌍 I'm based in Pune, India
 - 🔭 I’m currently working on : Java, Spring, Spring Boot, Apache Camel, Shell Script, PostgreSQL, Docker and many more things.
-- 🌱 I’m currently learning : System Designs
 - 👯 I’m looking to collaborate on : Java projects
 - 📫 How to reach me : (https://github.com/Bhaveshpatil45)
 - 📫 My Portfolio : (https://github.com/Bhaveshpatil45)
