@@ -14,7 +14,7 @@ I'm a software development engineer. Interested in Solving problems faced during
 - 🌍 I'm based in Pune, India
 - 🔭 I’m currently working on : Java, Spring, Spring Boot, Apache Camel, Shell Script, PostgreSQL, Docker and many more things.
 - 👯 I’m looking to collaborate on : Java projects
-- 📫 How to reach me : (https://github.com/Bhaveshpatil45)
+- 📫 How to reach me : (https://www.linkedin.com/in/bhavesh-patil-javadeveloper/)
 - 📫 My Portfolio : (https://github.com/Bhaveshpatil45)
 - ⚡ Fun fact : You know, who I'm!! 😜
 
@@ -42,7 +42,7 @@ I'm a software development engineer. Interested in Solving problems faced during
 
 ## Social Media Handles
 [![Github](https://img.shields.io/github/followers/Bhaveshpatil45?label=Follow&style=social)](https://github.com/Bhaveshpatil45)
-[![Linkedin](https://img.shields.io/badge/-Bhaveshpatil-blue?style=flat-square&logo=linkedin&logoColor=white&link=)](https://www.linkedin.com/in/bhavesh-patil-b3472a19a/)
+[![Linkedin](https://img.shields.io/badge/-Bhaveshpatil-blue?style=flat-square&logo=linkedin&logoColor=white&link=)](https://https://www.linkedin.com/in/bhavesh-patil-javadeveloper/)
 [![Mail](https://img.shields.io/badge/-bp700259@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:bp700259@gmail.com)
 
 ## Profile Visits
