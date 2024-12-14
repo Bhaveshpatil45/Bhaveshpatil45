@@ -52,8 +52,10 @@ I'm a software development engineer. Interested in Solving problems faced during
 | <a href="https://github.com/Bhaveshpatil45/Bhaveshpatil45"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Bhaveshpatil45&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Bhavesh's github stats" /></a> | <a href="https://github.com/Bhaveshpatil45/Bhaveshpatil45"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhaveshpatil45&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a> |
 | ------------- | ------------- |
 
-<b>My GitHub Stats</b>
+## My GitHub Stats & Badges
+| <img src="https://github-profile-trophy.vercel.app/?username=Bhaveshpatil45" alt="Bhaveshpatil45" /> |
+| <a href="https://github.com/Bhaveshpatil45"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Bhaveshpatil45&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Bhavesh's github stats" /></a> | <a href="https://github.com/kodtodya/kodtodya"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhaveshpatil45&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a> |
+| ------------- | ------------- |
 
-<a href="http://www.github.com/Bhaveshpatil45"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhaveshpatil45&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/Bhaveshpatil45"><img src="https://activity-graph.herokuapp.com/graph?username=Bhaveshpatil45&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
