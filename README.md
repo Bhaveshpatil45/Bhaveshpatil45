@@ -18,27 +18,44 @@ I'm a software development engineer. Interested in Solving problems faced during
 - 📫 My Portfolio : (https://github.com/Bhaveshpatil45)
 - ⚡ Fun fact : You know, who I'm!! 😜
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-   <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>	
-<code><img height="50" src="https://www.vectorlogo.zone/logos/opensource/opensource-ar21.svg"></code>
+
+## Stack I work with
+<code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img height="30" src="https://github.com/get-icon/geticon/blob/master/icons/maven.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/apache/apache-official.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/opensource/opensource-ar21.svg"></code>
+<code><img height="45" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+
+
+## Version Control tools I worked with
+<code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+
+
+## Frameworks I worked with
+<code><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
+
+
+## Tools I worked with
+<code><img height="50" src="https://img.icons8.com/color/344/intellij-idea.png"></code>
+<code><img height="30" src="https://github.com/get-icon/geticon/blob/master/icons/eclipse-logo.svg"></code>
+<code><img height="50" src="https://img.icons8.com/color/344/notepad-plus-plus.png"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
+<code><img height="50" src="https://github.com/get-icon/geticon/blob/master/icons/microsoft-office.svg"></code>
+
+
+## Databases I worked with
+<code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+
+
+## Operating Systems I worked with
 <code><img height="50" src="https://github.com/get-icon/geticon/blob/master/icons/microsoft-windows.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
-<code><img height="50" src="https://github.com/get-icon/geticon/blob/master/icons/microsoft-office.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
-<code><img height="30" src="https://github.com/get-icon/geticon/blob/master/icons/eclipse-logo.svg"></code>
-<code><img height="50" src="https://img.icons8.com/color/344/intellij-idea.png"></code>
-<code><img height="50" src="https://img.icons8.com/color/344/notepad-plus-plus.png"></code>
-</div>
-  
-  <br/><br/><br/>
-</div>
 
 ## Social Media Handles
 [![Github](https://img.shields.io/github/followers/Bhaveshpatil45?label=Follow&style=social)](https://github.com/Bhaveshpatil45)
@@ -52,5 +69,12 @@ I'm a software development engineer. Interested in Solving problems faced during
 | <a href="https://github.com/Bhaveshpatil45/Bhaveshpatil45"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Bhaveshpatil45&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Bhavesh's github stats" /></a> | <a href="https://github.com/Bhaveshpatil45/Bhaveshpatil45"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhaveshpatil45&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a> |
 | ------------- | ------------- |
 
+## My GitHub Stats & Badges
+| <img src="https://github-profile-trophy.vercel.app/?username=Bhaveshpatil45" alt="Bhaveshpatil45" /> |
+| <a href="https://github.com/Bhaveshpatil45"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Bhaveshpatil45&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Bhavesh's github stats" /></a> | <a href="https://github.com/kodtodya/kodtodya"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhaveshpatil45&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a> |
+| ------------- | ------------- |
 
-<a href="http://www.github.com/Bhaveshpatil45"><img src="https://activity-graph.herokuapp.com/graph?username=Bhaveshpatil45&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+## GitHub Activity Graph
+[![Bhavesh's github contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhaveshpatil45&custom_title=Bhaveshpatil45%27s%20activity%20graph&bg_color=fffff0&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&color=708090&days=60)](https://github.com/Bhaveshpatil45)
+
