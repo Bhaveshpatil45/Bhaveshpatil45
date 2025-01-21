@@ -65,9 +65,6 @@ I'm a software development engineer. Interested in Solving problems faced during
 ## Profile Visits
 ![Visitor Count](https://profile-counter.glitch.me/{Bhaveshpatil45}/count.svg)
 
-### Badges
-| <a href="https://github.com/Bhaveshpatil45/Bhaveshpatil45"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Bhaveshpatil45&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Bhavesh's github stats" /></a> | <a href="https://github.com/Bhaveshpatil45/Bhaveshpatil45"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhaveshpatil45&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a> |
-| ------------- | ------------- |
 
 ## My GitHub Stats & Badges
 | <img src="https://github-profile-trophy.vercel.app/?username=Bhaveshpatil45" alt="Bhaveshpatil45" /> |
