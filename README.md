@@ -24,7 +24,11 @@ I'm a software development engineer. Interested in Solving problems faced during
 <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img height="30" src="https://github.com/get-icon/geticon/blob/master/icons/maven.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/apache/apache-official.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/opensource/opensource-ar21.svg"></code>
+<code><img height="45" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-ar21.svg"></code>
 <code><img height="45" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
 
 
