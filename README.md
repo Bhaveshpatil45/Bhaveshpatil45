@@ -32,6 +32,11 @@ I'm a software development engineer. Interested in Solving problems faced during
 <code><img height="45" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
 
 
+## Cloud Technologies I worked with
+<code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_elasticcontainer/amazon_elasticcontainer-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+
 ## Version Control tools I worked with
 <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
